@@ -13,7 +13,7 @@ a descriptive caption for it.
 ## Setup
 **1. Clone the Repository:**
 ```
-git clone https://github.com/samratnitesh/Automated-Image-Caption-Generator.git
+git clone https://github.com/Samratnitesh/Automated-Image-Caption-Generator.git
 cd Automated-Image-Caption-Generator
 ```
 **2. Install Dependencies:**
