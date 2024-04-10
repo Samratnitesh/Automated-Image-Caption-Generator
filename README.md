@@ -10,5 +10,10 @@ a descriptive caption for it.
 - **Customization** : Easily customizable for different datasets and models.
 - **Evalutaion Metrics** : Includes evaluation metrics to assess the quality of generated captions.
 
-## Contrbuting
-Contributions are welcome! 
+## Contributing
+Contributions are welcome! For major changes, please open an issue first
+to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
